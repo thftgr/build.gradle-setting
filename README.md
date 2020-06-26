@@ -1,6 +1,6 @@
 # build.gradle-setting
 
-  
+```  
 plugins {
     id 'application' 
     id 'com.github.johnrengelman.shadow' version '4.0.4'
@@ -22,3 +22,4 @@ dependencies {
 }
 
 compileJava.options.encoding = 'UTF-8'
+```
