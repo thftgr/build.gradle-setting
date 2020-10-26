@@ -9,7 +9,7 @@ plugins {
 mainClassName = 'com.thftgr.Main'
 
 version '1.0'
-sourceCompatibility = targetCompatibility = 1.8
+//sourceCompatibility = targetCompatibility = 1.8
 
 repositories {
     jcenter()
